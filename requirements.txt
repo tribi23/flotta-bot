@@ -1,4 +1,5 @@
 python-telegram-bot==20.3
 gspread==5.7.2
 oauth2client==4.1.3
-pandas==2.1.0  # Versione più recente compatibile
+pandas==1.5.3  # Versione più stabile per Python 3.10
+numpy==1.24.4  # Requisito esplicito per pandas
